@@ -1,0 +1,1 @@
+export enum booleanEnum { True = "true", False = "false" }
